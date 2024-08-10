@@ -1,0 +1,7 @@
+id: defcon-academy
+name: DEF CON Academy
+
+modules:
+  - import:
+      dojo: welcome
+      module: welcome
