@@ -1,6 +1,8 @@
 id: defcon-academy
 name: DEF CON Academy
 
+emoji: ☠️
+
 modules:
   - import:
       dojo: welcome
